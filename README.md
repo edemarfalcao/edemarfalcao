@@ -8,8 +8,6 @@
 - 🥅 2021 Goals: Launch a new ideia
 - ⚡ Fun fact: I'm a musician
 
-<br />
-
 ### Languages and Tools:
 
 <div style="display: inline"><br>
