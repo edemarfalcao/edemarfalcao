@@ -3,11 +3,6 @@
 
 ## I'm a front-end developer!
 
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate with others in the community 
-- 🥅 2021 Goals: Launch a new ideia
-- ⚡ Fun fact: I'm a musician
-
 ### Languages and Tools:
 
 <div style="display: inline"><br>
